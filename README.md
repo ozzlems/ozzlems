@@ -5,7 +5,7 @@ I've been learning code since 2021. I started with Java - Java Swing and now I a
 
 * 🌍  I'm based in Antalya
 * ✉️  You can contact me at [ozlemsencoruh@gmail.com](mailto:ozlemsencoruh@gmail.com)
-* 🧠  I'm learning HTML & CSS
+* 🧠  I'm learning Javascript
 
 ### Skills
 
