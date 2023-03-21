@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ozlemsncrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozlemsncrh" height="30" width="40" /></a>
-<a href="https://dribbble.com/ozzlemss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ozzlemss" height="30" width="40" /></a>
 <a href="https://discord.gg/#6551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6551" height="30" width="40" /></a>
 </p>
 
