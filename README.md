@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ozlemsencoruh@gmail.com**
 
-- ⚡ Fun fact **I can't work while listening to music**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
