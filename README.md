@@ -1,16 +1,14 @@
 <h1 align="center"><em><b><b>Hi 👋, My name is Özlem </em></b></b></h1>
 <h2 align = "center">I'm a 2nd-grade student at computer science engineering department </h2>
-<h3 align="center">I've started my coding journey with Java  and now I am working my way towards JavaScript. Hope to be front end developer one day.</h3>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzlems" alt="ozzlems" /></a> </p>
-
+<h3 align="center">I've started my coding journey with Java  and now I am working my way towards JavaScript. Hope to be front end developer one day.</h3><br>
 
 - 🌱 I’m currently learning <b> Javascript </b>
 - 📫 How to reach me **ozlemsencoruh@gmail.com**
-<br>
+<br><br>
 
 <p align="center">
+  <br>
+  <br>
   <img src="codemodeon-code.gif" alt="animated" />
 </p>
 <h3 align="left">Connect with me:</h3>
