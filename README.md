@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzlems" alt="ozzlems" /></a> </p>
 
 
-- 🌱 I’m currently learning **Javascript **
+- 🌱 I’m currently learning <b> Javascript </b>
 - 📫 How to reach me **ozlemsencoruh@gmail.com**
 
 
