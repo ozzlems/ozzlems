@@ -9,7 +9,7 @@
 <p align="center">
   <br>
   
-  <img src="codemodeon-code.gif" alt="animated" />
+
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
