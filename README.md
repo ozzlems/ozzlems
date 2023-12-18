@@ -2,7 +2,7 @@
 <h2 align = "center">I'm a 3rd-grade student at computer science engineering department </h2>
 <h3 align="center">Currently working on React Native. </h3><br>
 
-- 🌱 I’m currently learning <b> Javascript </b>
+
 - 📫 How to reach me **ozlemsencoruh@gmail.com**
 <br><br>
 
