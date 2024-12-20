@@ -1,5 +1,5 @@
 <h1 align="center"><em><b><b>Hi 👋, My name is Özlem </em></b></b></h1>
-<h2 align = "center">I'm a 3rd-grade student at computer science engineering department </h2>
+<h2 align = "center">I'm a 4th-grade student at computer science engineering department </h2>
 <h3 align="center">I'm working on React and Next.js </h3><br>
 
 
